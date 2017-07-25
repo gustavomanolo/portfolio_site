@@ -1,0 +1,24 @@
+{
+  "name": "gustavomanolo-portfolio",
+  "authors": [
+    "Gustavo Manolo <gustavomanolo@gmail.com>"
+  ],
+  "description": "gustavomanolo's portfolio",
+  "main": "",
+  "keywords": [
+    "gustavomanolo",
+    "portfolio"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}

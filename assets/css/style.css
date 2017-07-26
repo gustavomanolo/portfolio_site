@@ -2,7 +2,7 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
   color: #2d3c49;
-  font-family: 'Work Sans', sans-serif, Times, serif;
+  font-family: "Work Sans", sans-serif, Times, serif;
 }
 
 /* Set style for horizontal rules */
@@ -27,6 +27,7 @@ header {
   border-bottom: 3px solid #7d97ad;
   margin-bottom: 20px;
 }
+
 .header h2 {
   color: #2d3c49;
   text-transform: uppercase;
@@ -34,6 +35,7 @@ header {
   text-align: right;
   font-weight: lighter;
 }
+
 .header h3 {
   color: #2d3c49;
   text-transform: uppercase;
@@ -48,6 +50,7 @@ header {
   min-height: 300px;
   background-image: url('../img/header-code.jpg');
 }
+
 .jumboSection > h1 {
   position: relative;
   background: rgba(0, 0, 0, 0.7);
@@ -79,6 +82,7 @@ header {
   background-color: #02b3e4;
   border-color: #01789A;
 }
+
 .btn-primary:hover {
   background-color: #015D77;
 }
